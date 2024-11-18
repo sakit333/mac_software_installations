@@ -1,6 +1,6 @@
 ## hombrew
 ```bash
-curl -fsSL https://raw.githubusercontent.com/sakit333/mac_software_installations/refs/heads/main/homebrew.sh | bash
+sudo curl -fsSL https://raw.githubusercontent.com/sakit333/mac_software_installations/refs/heads/main/homebrew.sh | bash
 ```
 ---
 ## git
