@@ -15,3 +15,10 @@ curl -fsSL https://raw.githubusercontent.com/sakit333/mac_software_installations
 ---
 ## maven
 ```bash
+curl -fsSL https://raw.githubusercontent.com/sakit333/mac_software_installations/refs/heads/main/install_maven.sh | bash
+```
+---
+## jenkins
+```bash
+curl -fsSL https://raw.githubusercontent.com/sakit333/mac_software_installations/refs/heads/main/install_jenkins.sh | bash
+```
